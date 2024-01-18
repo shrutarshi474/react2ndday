@@ -1,0 +1,27 @@
+
+
+.card{
+  padding-top: 5%;
+  padding-left: 150px;
+
+}
+
+.column {
+  float: left;
+  
+}
+button{
+  margin-left: 100px;
+}
+
+ul {
+  
+  list-style-type: none;
+  
+}
+
+li {
+  float: right;
+  padding-left: 2%;
+  
+}
